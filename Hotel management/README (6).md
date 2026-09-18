@@ -1,6 +1,6 @@
 # Hotel Reservation System
 
-## 📚 Project Overview
+##  Project Overview
 
 A comprehensive **Command-Line Interface (CLI)** based Hotel Reservation System built in Java. This project demonstrates core Java concepts including Object-Oriented Programming (OOP), Collections, Exception Handling, File I/O, Date handling, and Data Persistence.
 
@@ -17,36 +17,36 @@ This system manages hotel operations including:
 
 ---
 
-## 🎯 Course Topics Covered
+##  Course Topics Covered
 
 This project covers the following topics from **CSE2006 - Programming in Java**:
 
-### ✅ UNIT 1: Java Basics & Flow Control
+###  UNIT 1: Java Basics & Flow Control
 - Java Input/Output operations
 - Control structures (if-else, loops, switch)
 - Variable types and data types
 
-### ✅ UNIT 2: Object-Oriented Programming
+###  UNIT 2: Object-Oriented Programming
 - **Classes and Objects** (5 entity classes)
 - **Encapsulation** (private members, getters/setters)
 - **Constructors** with parameter initialization
 - **toString()** method overriding
 - Instance methods and state management
 
-### ✅ UNIT 3: Exception Handling
+###  UNIT 3: Exception Handling
 - **Custom Exception** (HotelException)
 - Try-catch blocks with input validation
 - Exception propagation
 - Business logic error handling
 
-### ✅ UNIT 4: Collections & I/O Streams
+###  UNIT 4: Collections & I/O Streams
 - **ArrayList** for dynamic data storage
 - Collections Framework usage
 - **Serialization** (ObjectInputStream/ObjectOutputStream)
 - File I/O operations
 - Data persistence across sessions
 
-### ✅ UNIT 5: Advanced Concepts
+###  UNIT 5: Advanced Concepts
 - **Date/Time** handling and calculations
 - **Serializable interface** implementation
 - Complex business logic algorithms
@@ -54,7 +54,7 @@ This project covers the following topics from **CSE2006 - Programming in Java**:
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ### Classes Structure
 
@@ -99,7 +99,7 @@ HotelReservationSystem/
 
 ---
 
-## 📋 Classes Description
+##  Classes Description
 
 ### 1. **Room.java**
 Represents a hotel room entity.
@@ -259,7 +259,7 @@ Main Menu
 
 ---
 
-## 🚀 How to Setup and Run
+##  How to Setup and Run
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
@@ -300,7 +300,7 @@ Expected: Welcome message and main menu appear
 
 ---
 
-## 📖 How to Use
+##  How to Use
 
 ### Starting Application
 ```
@@ -394,7 +394,7 @@ Booking ID: BK001
 
 ---
 
-## 🔑 Key Features
+##  Key Features
 
 ### Room Management
 ✓ Add rooms with amenities and capacity
@@ -447,7 +447,7 @@ Booking ID: BK001
 
 ---
 
-## 💾 Data Files
+##  Data Files
 
 The application creates three data files automatically:
 
@@ -460,7 +460,7 @@ To start fresh, simply delete these `.dat` files and run the application again.
 
 ---
 
-## 🧪 Testing Examples
+##  Testing Examples
 
 ### Test Case 1: Room Management
 ```
@@ -496,7 +496,7 @@ To start fresh, simply delete these `.dat` files and run the application again.
 
 ---
 
-## 📊 Algorithm Complexity
+##  Algorithm Complexity
 
 | Operation | Time | Space |
 |-----------|------|-------|
@@ -510,7 +510,7 @@ To start fresh, simply delete these `.dat` files and run the application again.
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### "Compilation error: cannot find symbol"
 - Ensure all `.java` files are in same directory
@@ -534,7 +534,7 @@ To start fresh, simply delete these `.dat` files and run the application again.
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 **Phase 1: Database Integration**
 - Replace .dat files with MySQL/SQLite
@@ -561,7 +561,7 @@ To start fresh, simply delete these `.dat` files and run the application again.
 
 ---
 
-## 📚 References
+##  References
 
 ### Course Material
 - CSE2006: Programming in Java
@@ -581,7 +581,7 @@ To start fresh, simply delete these `.dat` files and run the application again.
 
 ---
 
-## ✨ Summary
+##  Summary
 
 This Hotel Reservation System is a complete, production-ready application demonstrating all key Java concepts. It successfully manages hotel operations and can be easily extended with additional features.
 
@@ -596,11 +596,9 @@ This Hotel Reservation System is a complete, production-ready application demons
 
 ---
 
-**Status:** ✅ Complete and Ready for Submission
+**Status:**  Complete and Ready for Submission
 
 ---
 
 **Last Updated:** September 2026  
 **Version:** 1.0
-
-Good luck with your project! 🎉
